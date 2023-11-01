@@ -16,7 +16,7 @@ development of new technologies around the world. Having lived in multiple
 countries I have developed effective intercultural communication skills.
 
 ## My carreer path 👣
-In 2023, I graduated Electronic Engineering. During my degree, I developed a solid foundation in coding algorithms and data structure which lead to a change in my career path towards Software Development. Hence, I took an online course with Harvard University and carried on some self-studies online on the topic.
+In 2023, I graduated with a first-class honours in Electronic Engineering from University of the West of England. I have decided to persue a carreer in Software Development. During my degree, I developed a solid foundation in coding algorithms and data structure which have supported my transition to Software Development. To continue my learning, I have taken an online course with Harvard University and undertaken some self-directed online studies.
 
 ## Currently Learning - Online Harvard Course 📖
 I am currently taking an online course in Computer Science with Harvard University. The lectures include:
@@ -28,5 +28,5 @@ I am currently taking an online course in Computer Science with Harvard Universi
 + Distributed Version Control System: Git, GitHub
 
 ## Currently working on - 2D Game 👾
-The last part of my Computer Science Course revolves around designing my own digital product. My passion and for videogames lead me into the making of a 2D game programmed in Lua with the framework LÖVE, _Invaders in Space_.
-The product is based on the classic arcade game, _Space Invaders_. The main goal of this project is to learn how to _plan_, _design_ and _develop_ small contained games on my own.
+The final project on my Computer Science Course involves designing my own digital product. My passion for videogames inspired me to the make a 2D game programmed in Lua with the framework LÖVE, _Invaders in Space_.
+The design is based on the classic arcade game, _Space Invaders_. The main goal of this project is to learn how to independently _plan_, _design_ and _develop_ small contained games.
